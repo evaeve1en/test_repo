@@ -1,1 +1,1 @@
-select * from testtable;
+select * into str from testtable;
