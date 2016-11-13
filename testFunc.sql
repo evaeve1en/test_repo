@@ -1,5 +1,6 @@
 select * from testtable;
 
+
 select * from testtable23;
 
-select * from testtable24;
+select * into str2 from testtable2;
