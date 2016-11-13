@@ -1,4 +1,4 @@
-select * from testtable22;
+select * from testtable;
 
 select * from testtable23;
 
